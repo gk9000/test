@@ -1,1 +1,2 @@
 inside document1
+added
